@@ -24,7 +24,3 @@ A deep-learning NLP pipeline that turns multilingual ELSA Speak app reviews into
 - **Macro F1:** **85.99%**.
 - **Negative F1:** 81.97% - **Positive F1:** 90.01%.
 - Demonstrated reliable separation of clear positive/negative reviews while exposing ambiguity through prediction confidence.
-
-## ✨ Key Takeaway
-
-Built an end-to-end NLP workflow that combines **data engineering, weak labeling, dataset balancing, model experimentation, evaluation, and practical inference** into one reproducible sentiment-analysis pipeline.
